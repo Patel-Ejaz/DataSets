@@ -5,4 +5,3 @@ This repository contains data and code for scrapping and cleaning data on covid-
 * https://www.mohfw.gov.in/ is the official website of Ministry of Health and Family Welfare (MoHFH) Government of India. 
 * MoFHW updates state level confirmed, death and recovered data.
 
-* Here is the github repo of the project : https://github.com/covid19india/covid19india-react
