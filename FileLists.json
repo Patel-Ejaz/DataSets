@@ -1,0 +1,27 @@
+[
+  {
+    "BaseURL": "https://raw.githubusercontent.com/",
+    "RelativeURL": "Patel-Ejaz/DataSets/refs/heads/master/district_level_latest.csv",
+    "TargetFileName": "district_level_latest.csv"
+  },
+  {
+    "BaseURL": "https://raw.githubusercontent.com/",
+    "RelativeURL": "Patel-Ejaz/DataSets/refs/heads/master/patients_data.csv",
+    "TargetFileName": "patients_data.csv"
+  },
+  {
+    "BaseURL": "https://raw.githubusercontent.com/",
+    "RelativeURL": "Patel-Ejaz/DataSets/refs/heads/master/state_level_daily.csv",
+    "TargetFileName": "state_level_daily.csv"
+  },
+  {
+    "BaseURL": "https://raw.githubusercontent.com/",
+    "RelativeURL": "Patel-Ejaz/DataSets/refs/heads/master/tests_day_wise.csv",
+    "TargetFileName": "tests_day_wise.csv"
+  },
+  {
+    "BaseURL": "https://raw.githubusercontent.com/",
+    "RelativeURL": "Patel-Ejaz/DataSets/refs/heads/master/tests_state_wise.csv",
+    "TargetFileName": "tests_state_wise.csv"
+  }
+]
